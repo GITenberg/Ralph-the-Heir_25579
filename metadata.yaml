@@ -1,0 +1,36 @@
+_repo: Ralph-the-Heir_25579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Originally published in 1871, Ralph the Heir revolves around two men
+  named Ralph. One is the nephew and legal heir of Squire Gregory Newton. The other
+  is the squire's beloved illegitimate son and preferred heir. The fortunes and misfortunes
+  of the actual heir, as he desperately seeks to pay off his debts and marry a woman
+  of good social standing, form the core of the novel. Particularly noteworthy is
+  the book's description of a corrupt Parliamentary electionprobably based on Trollope's
+  own experience as a candidate.
+gutenberg_issued: '2008-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+title: Ralph the Heir
+url: http://www.gutenberg.org/ebooks/25579
